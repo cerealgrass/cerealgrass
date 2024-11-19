@@ -40,3 +40,8 @@
 # ln = input ("last name")
 # total = len(fn) + len(ln)
 # print("the total length of",fn,ln,"is",total)
+# mult = 1
+# num = int(input("what is ur number "))
+#     for i in range (12):        
+#     print (num,"X",mult, "=" ,num*mult)
+#     mult += 1
